@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayECS", "GrayECS\GrayECS.csproj", "{69FD3847-025D-4B03-A547-CD2E6181BCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayECS.Test", "GrayECS.Test\GrayECS.Test.csproj", "{4057708B-B662-4E50-9787-4B0B85C947BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayECS.Benchmark", "GrayECS.Benchmark\GrayECS.Benchmark.csproj", "{D2CA287A-DDAD-4023-9B88-DB9511C8DEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FD3847-025D-4B03-A547-CD2E6181BCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FD3847-025D-4B03-A547-CD2E6181BCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FD3847-025D-4B03-A547-CD2E6181BCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FD3847-025D-4B03-A547-CD2E6181BCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4057708B-B662-4E50-9787-4B0B85C947BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4057708B-B662-4E50-9787-4B0B85C947BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4057708B-B662-4E50-9787-4B0B85C947BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4057708B-B662-4E50-9787-4B0B85C947BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CA287A-DDAD-4023-9B88-DB9511C8DEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CA287A-DDAD-4023-9B88-DB9511C8DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CA287A-DDAD-4023-9B88-DB9511C8DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CA287A-DDAD-4023-9B88-DB9511C8DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
